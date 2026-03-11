@@ -1,4 +1,4 @@
-const NOTION_TOKEN = process.env.NOTION_TOKEN;
+const NOTION_TOKEN = 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;
 
 const PAGE_IDS = {
   config:   '320e6abcb90281bcb5c2d8fc3337cb63',
